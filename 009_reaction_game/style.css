@@ -1,0 +1,25 @@
+body {
+			background: url(https://images.unsplash.com/photo-1491747677313-84f7c8e10cc6?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=fd231a8eed81b26dcbb19f798db57340&auto=format&fit=crop&w=1350&q=80);
+			background-size: cover;
+			background-repeat: no-repeat;
+			font-family: 'Permanent Marker', cursive;
+		}
+		#shape {
+			background-color: red;
+			height: 200px;
+			width: 200px;
+			position: relative;
+			display: none;
+			border-radius: 50%
+		}
+		h1 {
+			padding: 30px 50px;
+			font-size: 2.0em;
+			color: white;
+		}
+		span {
+			color: deeppink;
+		}
+		#title {
+			font-size: 4.0em;
+		}
